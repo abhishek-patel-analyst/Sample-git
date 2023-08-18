@@ -9,3 +9,11 @@ with col1:
 
 with col2:
     st.text("IOTA Academy is the best institue")
+
+
+st.header("Courses")
+st.subheader("DA")
+st.subheader("BA")
+st.subheader("ML")
+st.subheader("DS")
+
